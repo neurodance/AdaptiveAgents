@@ -1,8 +1,0 @@
-<Solution>
-  <Project Path="AdaptiveAgents.AppHost/AdaptiveAgents.AppHost.csproj" />
-  <Project Path="AdaptiveAgents.Server/AdaptiveAgents.Server.csproj" />
-  <Project Path="frontend/frontend.esproj">
-    <Build />
-    <Deploy />
-  </Project>
-</Solution>
